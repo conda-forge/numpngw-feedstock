@@ -1,11 +1,11 @@
-About numpngw
-=============
+About numpngw-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/numpngw-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/WarrenWeckesser/numpngw
 
 Package license: BSD-2-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/numpngw-feedstock/blob/main/LICENSE.txt)
 
 Summary: Write numpy array(s) to a PNG or animated PNG file.
 
